@@ -1,3 +1,3 @@
-Linux Enthusiast.
+Avid Linux user.
 
-Most of what I make are just tools made to optimize my workflow.
+Most of my projects are command-line tools to improve my workflow.
