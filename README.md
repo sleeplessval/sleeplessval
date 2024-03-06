@@ -5,6 +5,6 @@ Most of my GitHub repositories are mirrors from [git.vwolfe.io](https://git.vwol
 
 I'm a versatile developer specialized in C#, Java, and Rust.
 
-I build tools that accelerate workflows. If you like what I make, consider [leaving a tip!](https://ko-fi.com/sleeplessval)
+I build tools that accelerate workflows. If you like what I make, consider [tipping on ko-fi!](https://ko-fi.com/sleeplessval)
 
-I'm currently looking for new professional opportunities! If you or someone you know is hiring, [read my resume](https://vwolfe.io/resume) and send me an email.
+I'm currently looking for new professional opportunities! If you or someone you know is hiring, [consult my resume](https://vwolfe.io/resume) and send me an email.
